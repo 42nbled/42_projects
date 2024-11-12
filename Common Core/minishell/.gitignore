@@ -1,0 +1,7 @@
+*.swp
+*.o
+*.a
+minishell
+obj/
+*.swp
+*.swo
