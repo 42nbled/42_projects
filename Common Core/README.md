@@ -1,10 +1,3 @@
-# Architecture des bases de données et data
+# So Long
 
-This category includes projects geared toward obtaining an RNCP 7 title, focusing on data analysis, machine learning, and database architecture. Projects like linear regression involved implementing predictive models from scratch, while dslr expanded on statistical learning concepts, emphasizing data exploration and advanced analysis techniques, primarily using Python.
-<div align="center">
-
-|  Nom du projet                                                    | Note obtenu /100 |  Language used                                                                                          |
-|:-----------------------------------------------------------------:|:----------------:|:-------------------------------------------------------------------------------------------------------:|
-| [linear regression](https://github.com/42nbled/linear_regression) |        125       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  |
-|              [dslr](https://github.com/42nbled/dslr)              |         ⌛       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  |
-</div>
+The so_long project involves creating a basic 2D game using MiniLibX, where the player collects all items on a map and reaches the exit while avoiding walls. The game includes key-based movement, real-time graphical rendering, and dynamic updates to track progress. It requires parsing and validating .ber map files, ensuring proper error handling, and implementing smooth gameplay mechanics. This project tests skills in game logic, graphics programming, memory management, and robust error handling while adhering to strict requirements and resource constraints.
